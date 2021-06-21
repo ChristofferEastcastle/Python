@@ -1,0 +1,7 @@
+# Project exclude paths
+/*
+!.gitignore
+!Python101/
+!Sorting_Algos/
+!Kattis/
+!Login/
