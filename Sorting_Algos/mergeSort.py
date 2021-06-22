@@ -37,8 +37,8 @@ def mergeSort(original):
         merge(arr1, arr2, original)
 
 
-array = [randint(0, 1000) for i in range(1000)]
+array = [randint(0, 10000) for i in range(1000)]
 
 print(f"Original:\n{array}\n")
 mergeSort(array)
-print(f"Merge sorted:\n{array}")
+print(f"MergeSorted:\n{array}")
